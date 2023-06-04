@@ -2,3 +2,4 @@ There are a lot of tools available to perform the test coverage analysis; for Ja
 Use JaCoCo and show how the coverage check works.
 We can run Gradle locally and generate the coverage report
 ##Learn about sonar qube
+checking pollSCM
